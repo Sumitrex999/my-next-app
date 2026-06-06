@@ -1,0 +1,9 @@
+/* filepath: c:\Users\amitk\Desktop\Code\Projects\NextJS\my-next-app\styles\globals.css */
+/* Custom background utility: bg-linear-to-br */
+.bg-linear-to-br {
+  background-image: linear-gradient(135deg, #eff6ff 0%, #e0e7ff 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* You can add more global styles below */
